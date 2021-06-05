@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8t++Givllyuo4r66ID4WmsJUdl6ohXtHxdsR5rM9bTzppVWlEmBecPEN3gU7vevgLtofASaZoKHXV/3Kew5oLQ==",
+  "success": true,
+  "projectFilePath": "D:\\Learnings\\.Net\\InterBaseConnection\\InterBaseConnection\\InterBaseConnection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deepak.jain961\\.nuget\\packages\\interbasesql.data.interbaseclient\\7.10.2\\interbasesql.data.interbaseclient.7.10.2.nupkg.sha512",
+    "C:\\Users\\deepak.jain961\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

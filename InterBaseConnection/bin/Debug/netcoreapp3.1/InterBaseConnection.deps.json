@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InterBaseConnection/1.0.0": {
+        "dependencies": {
+          "InterBaseSql.Data.InterBaseClient": "7.10.2"
+        },
+        "runtime": {
+          "InterBaseConnection.dll": {}
+        }
+      },
+      "InterBaseSql.Data.InterBaseClient/7.10.2": {
+        "dependencies": {
+          "System.Reflection.Emit": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/InterBaseSql.Data.InterBaseClient.dll": {
+            "assemblyVersion": "7.10.2.0",
+            "fileVersion": "7.10.2.0"
+          }
+        }
+      },
+      "System.Reflection.Emit/4.7.0": {}
+    }
+  },
+  "libraries": {
+    "InterBaseConnection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InterBaseSql.Data.InterBaseClient/7.10.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8N6D0+3ZsAwA2McXutzwLbo4bNtixultjmHK9g0pLfC8PpELOEDM6aQpoRc+wiZVjMJxfDG5Hz1k4QFL53DQHw==",
+      "path": "interbasesql.data.interbaseclient/7.10.2",
+      "hashPath": "interbasesql.data.interbaseclient.7.10.2.nupkg.sha512"
+    },
+    "System.Reflection.Emit/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
+      "path": "system.reflection.emit/4.7.0",
+      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+    }
+  }
+}

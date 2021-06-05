@@ -1,0 +1,15 @@
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\bin\Debug\netcoreapp3.1\InterBaseConnection.exe
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\obj\Debug\netcoreapp3.1\InterBaseConnection.csprojAssemblyReference.cache
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\obj\Debug\netcoreapp3.1\InterBaseConnection.AssemblyInfoInputs.cache
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\obj\Debug\netcoreapp3.1\InterBaseConnection.AssemblyInfo.cs
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\bin\Debug\netcoreapp3.1\InterBaseConnection.deps.json
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\bin\Debug\netcoreapp3.1\InterBaseConnection.runtimeconfig.json
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\bin\Debug\netcoreapp3.1\InterBaseConnection.runtimeconfig.dev.json
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\bin\Debug\netcoreapp3.1\InterBaseConnection.dll
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\bin\Debug\netcoreapp3.1\InterBaseConnection.pdb
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\bin\Debug\netcoreapp3.1\InterBaseSql.Data.InterBaseClient.dll
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\obj\Debug\netcoreapp3.1\InterBaseConnection.csproj.CoreCompileInputs.cache
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\obj\Debug\netcoreapp3.1\InterBaseConnection.csproj.CopyComplete
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\obj\Debug\netcoreapp3.1\InterBaseConnection.dll
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\obj\Debug\netcoreapp3.1\InterBaseConnection.pdb
+D:\Learnings\.Net\IB Connection\InterBaseConnection\InterBaseConnection\obj\Debug\netcoreapp3.1\InterBaseConnection.genruntimeconfig.cache
